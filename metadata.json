@@ -1,0 +1,6 @@
+{
+  "name": "PracticePay — Safe UPI Payment Simulator",
+  "description": "Multilingual, safe-to-fail UPI digital payment simulator with Sahayak Voice AI Coach and Multimodal Scam Shield.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
